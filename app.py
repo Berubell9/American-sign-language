@@ -1,6 +1,5 @@
 import os
 import os.path as op
-import shutil
 import pandas as pd
 import numpy as np
 from torchvision import datasets, models, transforms
