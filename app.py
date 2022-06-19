@@ -7,8 +7,6 @@ import torchvision.transforms as T
 from torch import nn
 import torch
 import PIL
-from os import listdir
-from os.path import isfile, join
 from torch.utils.data import Dataset
 import cv2
 transformation = transforms.Compose([
