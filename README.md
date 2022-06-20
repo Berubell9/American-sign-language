@@ -3,5 +3,5 @@
 
 Medium (Thai version) : https://medium.com/@15192/american-sign-languege-asl-b9f1c1a6dc0
 
-โมเดลมได้ถูก deploy ผ่าน streamlit cloud 
+โมเดลได้ถูก deploy ผ่าน streamlit cloud 
 <br>Streamlit : https://share.streamlit.io/berubell9/american-sign-language/main/app.py
